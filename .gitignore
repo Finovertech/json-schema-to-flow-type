@@ -1,4 +1,5 @@
 node_modules/
 lib/
+flow-typed/
 
 *.log
